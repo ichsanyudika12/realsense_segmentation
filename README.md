@@ -1,8 +1,8 @@
 ## Prerequisites
 
--OpenCV with Contrib Modules
+- opencv with Contrib Modules: https://github.com/opencv/opencv_contrib
 
-- opencv_contrib
+- librealsense: https://github.com/IntelRealSense/librealsense/blob/master/doc/installation.md
 
 1. Install dependencies
 
@@ -23,8 +23,6 @@
        make -j$(nproc)
        sudo make install
        pkg-config --modversion opencv4
-
-4. librealsense: https://github.com/IntelRealSense/librealsense/blob/master/doc/installation.md
 
 ### Build & Run
 
