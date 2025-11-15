@@ -1,6 +1,6 @@
 ## Prerequisites
 
-- opencv with Contrib Modules: https://github.com/opencv/opencv_contrib
+- opencv contrib: https://github.com/opencv/opencv_contrib
 
 - librealsense: https://github.com/IntelRealSense/librealsense/blob/master/doc/installation.md
 
